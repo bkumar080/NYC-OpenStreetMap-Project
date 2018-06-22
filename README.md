@@ -13,6 +13,7 @@ New York (Manhattan), New York, United States I've obtained a custom map that in
 ## Overview Statistics of the Dataset
 
 **File Size**
+
 | File Name                | File Size (MB) |
 |--------------------------|----------------|
 | NYC.osm                  | 477.565        |
@@ -32,6 +33,7 @@ New York (Manhattan), New York, United States I've obtained a custom map that in
 **Number of Subway Stations:** 378
 
 **Top 10 cuisines**
+
 | | Cuisine  Types|	Num|
 |-|---------------|----|
 |0| italian	      | 134|
